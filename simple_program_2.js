@@ -9,3 +9,5 @@ let c = sum(a,b);
 console.log(c);
 
 console.log(c+2);
+
+console.log(c+4);
