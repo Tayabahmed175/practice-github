@@ -7,3 +7,5 @@ function sum (a, b) {
 
 let c = sum(a,b);
 console.log(c);
+
+console.log(c+2);
